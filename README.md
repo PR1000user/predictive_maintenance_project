@@ -23,9 +23,4 @@ streamlit run app.py
 - `README.md`: Описание проекта.
 ## Видео-демонстрация
 [Ссылка на видео](video/video.mp4) или встроенное сжатое видео ниже:
-<video width="630" height="300" src= "https://github.com/user-attachments/assets/889aeafb-6cbf-4326-b61b-8793ba404d00"></video>
-
-
-
-
-
+<video width="630" height="300" src= "https://github.com/user-attachments/assets/240f83e1-5ff8-4d37-a4e5-34eed07c0699"></video>
